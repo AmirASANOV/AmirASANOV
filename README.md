@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
+[![Header](https://github.com/AmirASANOV/AmirASANOV/blob/main/assets/photo.png)](https://vk.com/fromkyrgyzstan)
 
 ### 🌐 On the way to creating a world-famous company.<br>🚀 Building Tomorrow's Web Experiences Today.
 
